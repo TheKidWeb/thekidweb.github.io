@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta charset="utf-8">
+    <meta name="generator" content="CoffeeCup HTML Editor (www.coffeecup.com)">
+    <meta name="dcterms.created" content="Fri, 28 Jul 2023 19:17:31 GMT">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <title>The Reading Record</title>
+	
+	
+    
+    <!--[if IE]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+<!--This is the title on the page--> <h1 id= main_title>Welcome to The Reading Record!</h1>
+
+<style>body {
+	 background-color: beige;
+	 
+}
+	 
+	 #main_title {
+	 color: brown;
+}
+
+ 	 #main_title {
+	 }
+ 		</style>
+
+		<h3 id=Explanation>Hi there! Since you're here, you probably want some book recommendations!/br
+		 Well that's what we do! Go ahead and scroll down and check out all the books we show, and click on them if you're interested! Happy Reading! 
+   
+
+  </body>
+</html>
